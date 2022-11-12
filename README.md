@@ -27,4 +27,4 @@
 
 ### Ссылка на проект
 
-🌱 [Форест Тревел](https://t.me/dariannyko "Telegram") 
+🌱 [Форест Тревел](https://dariannyko.github.io/Forest-Travel-Agency/) 
